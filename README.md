@@ -7,3 +7,5 @@ My current plan is to follow below resources and sharpen by python skills beyond
 https://docs.python.org/3/tutorial/index.html
 
 https://wesmckinney.com/book/
+
+https://github.com/wesm/pydata-book

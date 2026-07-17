@@ -35,6 +35,6 @@ def sample_gen():
         yield i
 
 result_gen = sample_gen()
-print(next(result_gen))
+print(next(result_gen)) 
 print(next(result_gen))
 
